@@ -4,7 +4,7 @@ Donate link: http://soledadpenades.com/projects/wordpress/#donate
 Tags: code, highlight, syntax, preformatting, whitespace, preserve
 Requires at least: 2.8.5
 Tested up to: 3.0.1
-Stable tag: trunk
+Stable tag: 0.0.4
 
 Minimalistic Syntax Highlighter plug-in which also makes sure code can still be copied and pasted into your favourite compiler!
 
