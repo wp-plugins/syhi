@@ -108,6 +108,12 @@ My tests prove otherwise. You'll need to use the HTML view. At least by now.
 * First public release
 
 
+== Upgrade notice ==
+
+= 0.0.4 =
+
+Updated syntax highlighter (GeSHi) and added support for new syntaxes: 4cs, 6502acme, 6502kickass, 6502tasm, 68000devpac, algol68, autoconf, autohotkey, awk, chaiscript, clojure, cuesheet, e, ecmascript, f1, fsharp, gambas, gdb, genie, go, gwbasic, hicest, icon, j, jquery, lb, logtalk, magiksf, mapbasic, mmix, modula2, newlisp, objeck, oxygene, oz, perl6, pf, pike, postgresql, powerbuilder, pcre, purebasic, q, rpmspec, rsplus, systemverilog, unicon, vala, xbasic, zxbasic.
+
 == Uninstall ==
 
 Just deactivate the plug-in, and remove its folder from the wp-content/plugins directory.
